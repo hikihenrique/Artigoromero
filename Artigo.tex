@@ -1,0 +1,52 @@
+\documentclass[12pt]{article}
+
+\usepackage{sbc-template}
+
+\usepackage{graphicx,url}
+
+\usepackage[brazil]{babel}   
+\usepackage[latin1]{inputenc}  
+
+     
+\sloppy
+
+\title{Introdu\c c\~{a}o \`{a} Criptografia e algoritmo RSA}
+
+\author{Henrique Shodi Maeta}
+
+
+\address{{Centro Universit\'{a}rio Senac, Santo Amaro}
+\email{japa1996@hotmail.com}}
+
+\begin{document} 
+
+\maketitle
+
+\begin{abstract}
+  
+\end{abstract}
+     
+\begin{resumo} 
+Transmitir ou receber comunicados sigilosos n\~{a}o \'{e} uma necessidade recente, e desde a atinguidade vem sendo desenvolvidas novas t\'{e}cnicas de oculta\c c\~{a}o e cifragem de mensagens
+\end{resumo}
+
+
+\section{Introdu\c c\~{a}o}
+
+
+ Transmitir ou receber mensagens sigilosas n\~{a}o \'{e} uma necessidade recente, h\'{a} relatos que na antiga Gr\'{e}cia eram utilizadas t\'{a}buas de madeiras, onde a mensagem era escrita, cobertas por cera, deste modo dificultaria o acesso e at\'{e} mesmo a consci\^{e}ncia de que a mensagem existia. Tamb\'{e}m, na Gr\'{e}cia antiga, dizem que um general raspava a cabe\c ca de um escravo e al\'{i} gravava uma mensagem. Quando o cabelo do escravo estivesse escondendo a mensagem ele era levado para o destinat\'{a}rio, e, essa t\'{e}cnica recebeu o nome de esteganografia. Por\'{e}m estas t\'{e}cnicas n\~{a}o eram muito eficientes, j\'{a} que se o escravo fosse interceptado por outra pessoa ou fosse retirada a cera da t\'{a}bua, n\~{a}o seria dif\'{i}cil achar estas mensagens. 
+ 
+ Junto com a esteganografia uma outra t\'{e}cnica foi desenvolvida ao longo da hist\'{o}ria, tal t\'{e}cnica consistia em substituir cada letra da mensagem por uma outra letra, foi desenvolvida ent\~{a}o, a cifra Atbash dos Hebreus por volta de 600 a.c., onde a primeira letra do alfabeto deveria ser substitu\'{i}da pela ultima, a segunda pela penultima e assim por diante. Alguns anos depois J\'{u}lio C\'{e}sar inventou a cifra de C\'{e}sar na qual o alfabeto era deslocado uma determinada quantidade de vezes, e essa quantidade de vezes recebe o nome de chave, por exemplo, em uma mensagem encriptografada com a chave 1 na cifra de C\'{e}sar a letra A ser\'{a} substitu\'{i}da pela B, a B pela C e assim por diante. Estas t\'{e}cnicas de criptografia se manteram por muito tempo at\'{e} que Al-Kindi um matem\'{a}tico e fil\'{o}sofo \'{a}rabe iniciou uma discu\c c\~{a}o sobre t\'{e}cnicas de criptoan\'{a}lise. Al-Kindi expecificou que, conhecendo a linguagem em que foi escrita a mensagem, para decifr\'{a}-la poder\'{i}amos utilizar o metodo de letras prov\'{a}veis ou frequ\^{e}ntes, por exemplo, um texto escrito em l\'{i}ngua portuguesa a frequ\^{e}ncia na qual a letra A aparece \'{e} muito alta, ent\~{a}o para decifrar o texto \'{e} necess\'{a}rio apenas verificar a const\^{a}ncia em que as letras aparecem e assim descobrir a chave que foi utilizada para encriptografar e, consequ\^{e}ntemente, descobrir o texto original.
+ 
+ Por muitos anos foram sendo criadas novas maneiras de encriptografar uma mensagem, por\'{e}m n\~{a}o era dif\'{i}cil , at\'{e} que em 1978 tr\^{e}s professores do MIT publicaram um artigo  
+
+
+\bibliographystyle{sbc}
+\bibliography{sbc-template}
+
+\end{document}
+
+%The origins of cryptology
+%https://www.vivaolinux.com.br/artigo/Introducao-a-criptografia
+%http://www.gta.ufrj.br/grad/09_1/versao-final/stegano/introducao.html
+%http://www.dsc.ufcg.edu.br/~pet/jornal/abril2014/materias/historia_da_computacao.html
