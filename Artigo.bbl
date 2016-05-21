@@ -1,0 +1,54 @@
+\begin{thebibliography}{}
+
+\bibitem[Al-Kadit 1992]{al-kadi:00}
+Al-Kadit, I.~A. (1992).
+\newblock Origins of cryptology: the arab contributions.
+\newblock {\em Cryptologia}, 16(2):97--126.
+
+\bibitem[Andrade 2013]{ufcg:02}
+Andrade, E. (2013).
+\newblock A hist\'{o}ria da criptografia.
+\newblock {\em Jornal PETNews}.
+
+\bibitem[Carvalho 2008]{ufrj}
+Carvalho, H. E.~T. (2008).
+\newblock Pki - infra-estrutura de chaves p\'{u}blicas.
+\newblock
+  \url{http://www.gta.ufrj.br/ensino/eel879/trabalhos_vf_2008_2/hugo/Criptografia.html}.
+\newblock Accessed: 2016-04-26.
+
+\bibitem[da~Silveira and Faleiros 200]{ita}
+da~Silveira, A.~S. and Faleiros, A.~C. (200?).
+\newblock Criptografia de chave p\'{u}blica - o papel da aritm\'{e}tica em
+  precis\~{a}o m\'{u}ltipla.
+
+\bibitem[dos Santos 200]{bruno}
+dos Santos, B.~A. (200?).
+\newblock Criptografia rsa: Por qu\^{e} esse m\'{e}todo \'{e} t\~{a}o seguro?
+
+\bibitem[Oliveira 2012]{oliveira2012criptografia}
+Oliveira, R.~R. (2012).
+\newblock Criptografia sim\'{e}trica e assim\'{e}trica-os principais algoritmos
+  de cifragem.
+\newblock {\em Seguran\c ca Digital}, 31:11--15.
+
+\bibitem[Pisa 2016]{tech}
+Pisa, P. (2016).
+\newblock O que \'{e} criptografia?
+\newblock
+  \url{http://www.techtudo.com.br/artigos/noticia/2012/06/o-que-e-criptografia.html}.
+\newblock Acessed: 2016-04-26.
+
+\bibitem[Rivest et~al. 1978]{rivest:1978}
+Rivest, R.~L., Shamir, A., and Adleman, L. (1978).
+\newblock A method for obtaining digital signatures and public-key
+  cryptosystems.
+\newblock {\em Communications of the ACM}, 21(2):120--126.
+
+\bibitem[Sorian 2016]{gravity}
+Sorian, G. (2016).
+\newblock Criptogramas.
+\newblock \url{http://gravityfallsbrasil.blogspot.com.br/p/criptogramas.html}.
+\newblock Acessed: 2016-04-26.
+
+\end{thebibliography}

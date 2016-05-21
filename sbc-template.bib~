@@ -1,0 +1,81 @@
+
+#.-latin1-.
+@misc{gravity,
+	howpublished = {\url{http://gravityfallsbrasil.blogspot.com.br/p/criptogramas.html}},
+	title = {Criptogramas},
+	author = {Gustavo Sorian},
+	year = {2016},
+	note = {Acessed: 2016-04-26}
+}
+
+@misc{ufrj,
+	author = {Hugo Eiji Tibana Carvalho},
+	title = {PKI - Infra-estrutura de Chaves P\'{u}blicas},
+	chapter = {2.2.1 ~ 2.2.2},
+	howpublished = {\url{http://www.gta.ufrj.br/ensino/eel879/trabalhos_vf_2008_2/hugo/Criptografia.html}},
+  	note = {Accessed: 2016-04-26},
+  	year = {2008}
+}
+
+@article{al-kadi:00,
+  title={Origins of cryptology: the Arab contributions},
+  author={Al-Kadit, Ibrahim A},
+  journal={Cryptologia},
+  volume={16},
+  number={2},
+  pages={97--126},
+  year={1992},
+  publisher={Taylor \& Francis}
+}
+
+@article{rivest:1978,
+  title={A method for obtaining digital signatures and public-key cryptosystems},
+  author={Rivest, Ronald L and Shamir, Adi and Adleman, Len},
+  journal={Communications of the ACM},
+  volume={21},
+  number={2},
+  pages={120--126},
+  year={1978},
+  publisher={ACM}
+}
+
+@misc{tech,
+	howpublished = {\url{http://www.techtudo.com.br/artigos/noticia/2012/06/o-que-e-criptografia.html}},
+	title = {O que \'{e} criptografia?},
+	author = {Pedro Pisa},
+	year = {2016},
+	note = {Acessed: 2016-04-26}
+}
+
+
+@article{oliveira2012criptografia,
+  title={Criptografia sim\'{e}trica e assim\'{e}trica-os principais algoritmos de cifragem},
+  author={Oliveira, Ronielton Rezende},
+  journal={Seguran\c ca Digital},
+  volume={31},
+  pages={11--15},
+  year={2012}
+}
+
+@article{ufcg:02,
+  title={A Hist\'{o}ria da Criptografia.},
+  author={Eder Andrade},
+  journal={Jornal PETNews},
+  year={2013},
+  publisher={Jornal PETNews}
+}
+
+@misc{ita,
+	author = {Aline Sousa da Silveira and Antonio C\^{a}ndido Faleiros},
+	title = {CRIPTOGRAFIA DE CHAVE P\'{u}BLICA - O PAPEL DA ARITM\'{e}TICA EM PRECIS\~{a}O M\'{u}LTIPLA},
+	year = {200?}
+}
+
+@misc{bruno,
+	title={Criptografia RSA: Por qu\^{e} esse m\'{e}todo \'{e} t\~{a}o seguro?},
+	author = {Bruno Auguto dos Santos},
+	year = {200?},
+	publisher = {USP}
+	
+
+}
